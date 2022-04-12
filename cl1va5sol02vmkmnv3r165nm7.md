@@ -1,4 +1,4 @@
-## How to publish a Hugo site on Github Pages
+## How to Publish a Hugo Site on Github Pages
 
 ### Pre-requisites
 
