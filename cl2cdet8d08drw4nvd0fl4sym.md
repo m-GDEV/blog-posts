@@ -39,5 +39,5 @@ In this step we'll cover the steps on how to install a game.
 8. Navigate to "Game Options" and change "Executable" to the game's exe (This can be found where you installed the game earlier, eg: `wine prefix/Drive_c/program files (X86)`)
 9. Click "Save" at the bottom
 
-### Congrats! You've now installed a Windows game on Linux using Lutris
+## Congrats! You've now installed a Windows game on Linux using Lutris
 If you have any issues or additional concerns, feel free to leave a comment below. Thanks for reading!
